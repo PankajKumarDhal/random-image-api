@@ -1,0 +1,17 @@
+{
+  "name": "random-image-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple RESTful API built with Node.js and Express.js to serve random images.",
+  "dependencies": {
+    "express": "^4.21.1",
+    "js-yaml": "^4.1.0",
+    "random-image-api": "file:"
+  }
+}

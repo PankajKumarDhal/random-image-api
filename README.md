@@ -8,7 +8,7 @@ A simple RESTful API built with Node.js and Express.js to serve random images.
 
 ## Setup Instructions
 1. Clone the repository or download the project.
-2. Navigate to the project directory:
+2. Navigate to the project directory:https://github.com/PankajKumarDhal/random-image-api.git
    ```bash
    cd random-image-api
 
